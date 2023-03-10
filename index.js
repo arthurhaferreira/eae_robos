@@ -1,1 +1,1 @@
-OI
+let nome = "diego"
